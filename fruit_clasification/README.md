@@ -13,3 +13,6 @@ El script debe aceptar entrada desde la terminal o consola.
 El modelo o regla debe poder generalizar (no hardcodees todo, pero puedes apoyarte en listas si es necesario).
 
 
+prueba 1: openai
+
+- Intente usar la libreria de openai, es de pago y tengo que darle creditos, no hay free tier y no pude hacer pruebas. Se decice no gastar y buscar alternativa
